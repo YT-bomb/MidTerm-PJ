@@ -21,7 +21,7 @@
 torch == 1.2.0
 
 ## 文件下载
-训练所需的voc_weights_resnet.pth或者voc_weights_vgg.pth以及主干的网络权重可以在百度云下载。  
+训练所需的voc_weights_resnet.pth或者voc_weights_vgg.pth以及主干的网络权重可以在百度云下载，从[repo](https://github.com/bubbliiiing/faster-rcnn-pytorch)中获得。  
 voc_weights_resnet.pth是resnet为主干特征提取网络用到的；  
 voc_weights_vgg.pth是vgg为主干特征提取网络用到的；   
 链接: https://pan.baidu.com/s/1S6wG8sEXBeoSec95NZxmlQ      
