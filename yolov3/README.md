@@ -1,3 +1,5 @@
+This repo is copy from <a href="https://ultralytics.com/yolov3", alt="yolov3 repo"> for midterm project of Computer Vision course. For detail training and data set using, please refer to the repo's readme below:
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov3" target="_blank">
