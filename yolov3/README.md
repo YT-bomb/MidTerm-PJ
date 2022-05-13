@@ -1,4 +1,6 @@
-This repo is copy from <a href="https://ultralytics.com/yolov3", alt="yolov3 repo"> for midterm project of Computer Vision course. For detail training and data set using, please refer to the repo's readme below:
+This repo is copy from [yolov3 repo](https://ultralytics.com/yolov3) for midterm project of Computer Vision course. The best model we get is store in [baidu cloud](https://pan.baidu.com/s/12fGrnxUeG36v7g4lj2r08w?pwd=wq2b); the pretrained model for fine-tuning is [here](https://pan.baidu.com/s/1hZCb_ZBCLhNZIyRXG5pi7w?pwd=bl0z)
+
+For detail training and data set using, please refer to the repo's readme below:
 
 <div align="center">
 <p>
